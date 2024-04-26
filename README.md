@@ -1,3 +1,4 @@
+![logo](https://github.com/alikhizarsohal/alikhiarsohal/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ali Khizar</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
