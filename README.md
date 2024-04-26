@@ -6,6 +6,10 @@
 
 - 🔭 I’m currently working on [Health Hub](https://github.com/alikhizarsohal/HealthHub---Revolutionizing-Personalized-Healthcare)
 
+- 🌱 I’m currently learning **MERN stack development**
+
+- 📫 How to reach me **alikhizar9110@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alikhizar9110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alikhizar9110" height="30" width="40" /></a>
