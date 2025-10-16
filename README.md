@@ -1,25 +1,49 @@
-<p align="center"><img src="https://github.com/alikhizarsohal/alikhiarsohal/blob/main/github-header-image.png" alt="logo"></p>
+# 👋 Hi, I'm Ali Khizar
 
-<h1 align="center">Hi 👋, I'm Ali Khizar</h1>
-<h3 align="center">A passionate software developer✌️</h3>
+### 🧠 Full Stack AI Engineer  
+**LangGraph | LangSmith | RAG Systems | FastAPI | Django | React & Next.js | Vector & Graph Databases**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alikhizarsohal&label=Profile%20views&color=0e75b6&style=flat" alt="alikhizarsohal" /> </p>
+---
 
-- 🔭 I’m currently working on [Health Hub](https://github.com/alikhizarsohal/HealthHub---Revolutionizing-Personalized-Healthcare)
+### 🚀 About Me  
+I’m a **Full Stack AI Engineer** specializing in building **intelligent, end-to-end applications** that combine **advanced AI systems** with **robust full-stack architecture**.
 
-- 🌱 I’m currently learning **MERN stack development**
+My focus is on developing **scalable, production-ready systems** that seamlessly integrate **LLMs (OpenAI)**, **LangGraph**, and **Retrieval-Augmented Generation (RAG)** pipelines to deliver real-world impact through **automation, knowledge management**, and **AI-driven experiences**.
 
-- 📫 How to reach me **alikhizar9110@gmail.com** or **ali@sage-teck.com**
+I bridge the gap between **AI research** and **software engineering**, transforming cutting-edge models into reliable, maintainable, and high-performing products.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alikhizar9110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alikhizar9110" height="30" width="40" /></a>
-<a href="https://instagram.com/ali._.khizar_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali._.khizar_." height="30" width="40" /></a>
-<a href="https://medium.com/@alikhizar9110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alikhizar9110" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🧩 Core Expertise  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikhizarsohal&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhizarsohal&" alt="alikhizarsohal" /></p>
+- **AI Systems:** LangGraph, LangSmith, Retrieval-Augmented Generation (RAG), Large Language Models, OpenAI API, Intelligent Automation  
+- **Backend Development:** FastAPI, Django, Flask, RESTful API Design, Authentication, OAuth2  
+- **Frontend Development:** React.js, Next.js, JavaScript, TypeScript, Responsive UI Development  
+- **Databases:** PostgreSQL, Redis, Vector Databases (Weaviate), Graph Databases, SQL  
+- **DevOps & Tools:** Docker, GitHub, CI/CD, Postman, Insomnia, Apache  
+- **Software Architecture:** Scalable API Design, Data Pipelines, Full-Stack Integration, Production Deployment  
+
+---
+
+### ⚙️ Development Philosophy  
+> “Code is not the goal — value is.”  
+
+I believe in designing **systems, not scripts** — writing code that scales, communicates, and delivers measurable results.  
+My approach balances **AI innovation** with **engineering discipline**, ensuring every system I build is **efficient, observable, and production-ready**.
+
+---
+
+### 📈 Current Focus  
+- Advancing **stateful multi-agent architectures** using LangGraph  
+- Exploring **Graph + Vector hybrid search** for contextual intelligence  
+- Enhancing **LLM-powered automation pipelines** for enterprise use cases  
+
+---
+
+### 🤝 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Khizar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-khizar-308b5a1b3/)  
+[![GitHub](https://img.shields.io/badge/GitHub-alikzdev-gray?logo=github&logoColor=white)](https://github.com/alikzdev)  
+
+---
+
+💡 *“Building intelligent systems that make technology think — and people work smarter.”*
