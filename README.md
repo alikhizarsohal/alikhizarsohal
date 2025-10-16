@@ -42,7 +42,7 @@ My approach balances **AI innovation** with **engineering discipline**, ensuring
 
 ### 🤝 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Khizar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-khizar-308b5a1b3/)  
-[![GitHub](https://img.shields.io/badge/GitHub-alikzdev-gray?logo=github&logoColor=white)](https://github.com/alikzdev)  
+[![GitHub](https://img.shields.io/badge/GitHub-alikhizar-gray?logo=github&logoColor=white)](https://github.com/alikhizarsohal)  
 
 ---
 
